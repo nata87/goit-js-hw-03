@@ -1,3 +1,18 @@
+Module 3: Arrays
+
+# Master of science in Software Engineering
+
+## Модуль 3. (Масиви)
+
+### План заняття (14.11.2023):
+
+- Масиви
+- Ітерація по масиву
+- Присвоєння за посиланням і за значенням
+- Методи масиву
+
+Module 2: Branching and cycles
+
 # Master of science in Software Engineering
 
 ## Модуль 2. (Розгалуження та цикли)
@@ -9,8 +24,6 @@
 - Інструкція switch
 - Область видимості
 - Цикли
-
-# goit-js-hw-01
 
 Module 1: Variables and types. Introduction to JavaScript
 
